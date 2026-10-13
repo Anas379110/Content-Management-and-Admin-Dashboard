@@ -1,21 +1,21 @@
-# لوحة إدارة ونظام إدارة المحتوى (CMS)
-**Feature-Rich Admin Panel & CMS Frontend** · التصنيف: واجهة أمامية (Frontend)
+# Admin Panel and Content Management System (CMS)
+**Feature-Rich Admin Panel & CMS Frontend** · Category: Frontend (Frontend)
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
+> This project is for a specific company/client, and the source code is not published.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-لوحة إدارة RBAC مع جداول متقدمة ومحرر نصوص غني.
+## Project Overview
+RBAC admin panel with advanced tables and a rich text editor.
 
-## أبرز النقاط
-- فرز وفلترة وتصفح من الخادم + تصدير CSV
-- رفع صور بالسحب والإفلات + محرر نصوص غني
+## Highlights
+- Server-side sorting, filtering, and pagination + CSV export
+- Drag-and-drop image upload + rich text editor
 - TanStack Query: Optimistic Updates + Stale-While-Revalidate
 
-## الدور
-مطوّر Frontend: بناء الواجهات وإدارة الحالة والتكامل مع الـ APIs وتحسين الأداء وتجربة المستخدم.
+## Role
+Frontend Developer: built interfaces, state management, API integrations, performance and UX improvements.
 
-## التقنيات المستخدمة
+## Technologies
 React, TypeScript, TanStack Query, Ant Design, Recharts, React Hook Form, Zod, Docker
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

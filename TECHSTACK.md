@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — لوحة إدارة ونظام إدارة المحتوى (CMS)
+# 🛠️ Tech Stack — Admin Panel & Content Management System (CMS)
 
 - React
 - TypeScript
